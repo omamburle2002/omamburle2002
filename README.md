@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my programming skills<br>🌱 I’m currently learning MERN Stack Technology<br>🤝 I’m looking for a job<br>📫 How to reach me omamburle007@gmail.com
+Hey there! I’m Om Amburle, a motivated Data Analyst with a passion for extracting meaningful insights from complex datasets. I have hands-on experience in tools like Python, SQL, Power BI, and Excel, which I use to build dashboards, perform in-depth analysis, and deliver solutions that drive impactful decision-making
+My journey in data analytics includes projects ranging from e-commerce sales analysis to hospital performance tracking, where I’ve helped businesses optimize operations and improve customer satisfaction. My goal is always to bring data to life through clear, actionable insights, helping teams move forward with confidence.<br>📫 How to reach me omamburle007@gmail.com
 
 
 ## 🌐 Socials:
